@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "fighter-aircraft-frontend",
+		"path": "fighter-aircraft-frontend"
+	},
+	{
+		"name": "fighter-aircraft-server",
+		"path": "fighter-aircraft-server"
+	}
+],
+  "settings": {}
+}
